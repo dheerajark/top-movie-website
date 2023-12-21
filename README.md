@@ -24,7 +24,7 @@ This web application allows users to manage a collection of movies. Users can ad
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dheerajark/top-movie-website.git
 cd movie-collection-manager
 ```
 
